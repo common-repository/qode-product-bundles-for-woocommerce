@@ -1,0 +1,791 @@
+# Copyright (C) 2024 Qode Interactive
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: QODE Product Bundles for WooCommerce 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/qode-product-bundles-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-25T09:42:54+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: qode-product-bundles-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+#: D:\projects\qi-woo\app\public\wp-content\plugins\qode-product-bundles-for-woocommerce\class-qode-product-bundles-for-woocommerce.php
+msgid "QODE Product Bundles for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: D:\projects\qi-woo\app\public\wp-content\plugins\qode-product-bundles-for-woocommerce\class-qode-product-bundles-for-woocommerce.php
+msgid "https://qodeinteractive.com/qode-product-bundles-for-woocommerce/"
+msgstr ""
+
+#. Description of the plugin
+#: D:\projects\qi-woo\app\public\wp-content\plugins\qode-product-bundles-for-woocommerce\class-qode-product-bundles-for-woocommerce.php
+msgid "Boost conversion rates, create extra value deals and run cross-selling campaigns by combining two or more products in practical product bundles."
+msgstr ""
+
+#. Author of the plugin
+#: D:\projects\qi-woo\app\public\wp-content\plugins\qode-product-bundles-for-woocommerce\class-qode-product-bundles-for-woocommerce.php
+msgid "Qode Interactive"
+msgstr ""
+
+#. Author URI of the plugin
+#: D:\projects\qi-woo\app\public\wp-content\plugins\qode-product-bundles-for-woocommerce\class-qode-product-bundles-for-woocommerce.php
+msgid "https://qodeinteractive.com/"
+msgstr ""
+
+#: class-qode-product-bundles-for-woocommerce.php:155
+msgid "WooCommerce plugin is required for QODE Product Bundles for WooCommerce plugin to work properly. Please install/activate it first."
+msgstr ""
+
+#: helpers/helper.php:276
+msgid "Please upload a valid SVG icon"
+msgstr ""
+
+#: helpers/helper.php:591
+#: helpers/helper.php:622
+#: helpers/helper.php:666
+#: helpers/helper.php:695
+#: inc/admin/inc/common/core/class-qode-product-bundles-for-woocommerce-framework-options.php:149
+#: inc/admin/inc/fonts/helper.php:115
+msgid "Default"
+msgstr ""
+
+#: helpers/helper.php:700
+msgid "H1"
+msgstr ""
+
+#: helpers/helper.php:701
+msgid "H2"
+msgstr ""
+
+#: helpers/helper.php:702
+msgid "H3"
+msgstr ""
+
+#: helpers/helper.php:703
+msgid "H4"
+msgstr ""
+
+#: helpers/helper.php:704
+msgid "H5"
+msgstr ""
+
+#: helpers/helper.php:705
+msgid "H6"
+msgstr ""
+
+#: helpers/helper.php:706
+msgid "P"
+msgstr ""
+
+#: helpers/helper.php:709
+msgid "Same Window"
+msgstr ""
+
+#: helpers/helper.php:710
+msgid "New Window"
+msgstr ""
+
+#: helpers/helper.php:713
+msgid "Solid"
+msgstr ""
+
+#: helpers/helper.php:714
+msgid "Dashed"
+msgstr ""
+
+#: helpers/helper.php:715
+msgid "Dotted"
+msgstr ""
+
+#: helpers/helper.php:718
+msgid "Thin (100)"
+msgstr ""
+
+#: helpers/helper.php:719
+msgid "Extra Light (200)"
+msgstr ""
+
+#: helpers/helper.php:720
+msgid "Light (300)"
+msgstr ""
+
+#: helpers/helper.php:721
+msgid "Normal (400)"
+msgstr ""
+
+#: helpers/helper.php:722
+msgid "Medium (500)"
+msgstr ""
+
+#: helpers/helper.php:723
+msgid "Semi Bold (600)"
+msgstr ""
+
+#: helpers/helper.php:724
+msgid "Bold (700)"
+msgstr ""
+
+#: helpers/helper.php:725
+msgid "Extra Bold (800)"
+msgstr ""
+
+#: helpers/helper.php:726
+msgid "Black (900)"
+msgstr ""
+
+#: helpers/helper.php:729
+msgid "Normal"
+msgstr ""
+
+#: helpers/helper.php:730
+msgid "Italic"
+msgstr ""
+
+#: helpers/helper.php:731
+msgid "Oblique"
+msgstr ""
+
+#: helpers/helper.php:732
+#: helpers/helper.php:740
+#: helpers/helper.php:748
+msgid "Initial"
+msgstr ""
+
+#: helpers/helper.php:733
+#: helpers/helper.php:741
+#: helpers/helper.php:749
+msgid "Inherit"
+msgstr ""
+
+#: helpers/helper.php:736
+#: helpers/helper.php:744
+msgid "None"
+msgstr ""
+
+#: helpers/helper.php:737
+msgid "Capitalize"
+msgstr ""
+
+#: helpers/helper.php:738
+msgid "Uppercase"
+msgstr ""
+
+#: helpers/helper.php:739
+msgid "Lowercase"
+msgstr ""
+
+#: helpers/helper.php:745
+msgid "Underline"
+msgstr ""
+
+#: helpers/helper.php:746
+msgid "Overline"
+msgstr ""
+
+#: helpers/helper.php:747
+msgid "Line-Through"
+msgstr ""
+
+#: helpers/helper.php:752
+msgid "One"
+msgstr ""
+
+#: helpers/helper.php:753
+msgid "Two"
+msgstr ""
+
+#: helpers/helper.php:754
+msgid "Three"
+msgstr ""
+
+#: helpers/helper.php:755
+msgid "Four"
+msgstr ""
+
+#: helpers/helper.php:756
+msgid "Five"
+msgstr ""
+
+#: helpers/helper.php:757
+msgid "Six"
+msgstr ""
+
+#: helpers/helper.php:760
+#: helpers/helper.php:765
+#: inc/admin/inc/common/fields-wp/class-qode-product-bundles-for-woocommerce-framework-field-wp-yesno.php:13
+#: inc/admin/inc/common/fields/class-qode-product-bundles-for-woocommerce-framework-field-yesno.php:13
+#: inc/admin/inc/shortcodes/translators/elementor/class-qode-product-bundles-for-woocommerce-framework-elementor-translator.php:622
+msgid "Yes"
+msgstr ""
+
+#: helpers/helper.php:761
+#: helpers/helper.php:764
+#: inc/admin/inc/common/fields-wp/class-qode-product-bundles-for-woocommerce-framework-field-wp-yesno.php:17
+#: inc/admin/inc/common/fields/class-qode-product-bundles-for-woocommerce-framework-field-yesno.php:15
+#: inc/admin/inc/shortcodes/translators/elementor/class-qode-product-bundles-for-woocommerce-framework-elementor-translator.php:621
+msgid "No"
+msgstr ""
+
+#: inc/admin/class-qode-product-bundles-for-woocommerce-framework.php:57
+msgid "Product Bundles"
+msgstr ""
+
+#: inc/admin/class-qode-product-bundles-for-woocommerce-framework.php:77
+msgid "Global"
+msgstr ""
+
+#: inc/admin/class-qode-product-bundles-for-woocommerce-framework.php:78
+msgid "Global Plugin Options"
+msgstr ""
+
+#: inc/admin/inc/admin-notice/class-qode-product-bundles-for-woocommerce-admin-notice.php:96
+msgid "Thank you for the feedback!"
+msgstr ""
+
+#: inc/admin/inc/admin-notice/class-qode-product-bundles-for-woocommerce-admin-notice.php:98
+msgid "Something went wrong with sending feedback."
+msgstr ""
+
+#: inc/admin/inc/admin-notice/templates/admin-deactivation-form.php:22
+msgid "Quick Feedback"
+msgstr ""
+
+#. translators: %s - Plugin name.
+#: inc/admin/inc/admin-notice/templates/admin-deactivation-form.php:32
+msgid "If you have a moment, please share why you are deactivating %s:"
+msgstr ""
+
+#: inc/admin/inc/admin-notice/templates/admin-deactivation-form.php:44
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: inc/admin/inc/admin-notice/templates/admin-deactivation-form.php:53
+msgid "I found a better plugin"
+msgstr ""
+
+#: inc/admin/inc/admin-notice/templates/admin-deactivation-form.php:56
+msgid "Please share which plugin"
+msgstr ""
+
+#: inc/admin/inc/admin-notice/templates/admin-deactivation-form.php:63
+msgid "I couldn't get plugin to work"
+msgstr ""
+
+#: inc/admin/inc/admin-notice/templates/admin-deactivation-form.php:72
+msgid "This is a temporary deactivation"
+msgstr ""
+
+#. translators: %s - Plugin name.
+#: inc/admin/inc/admin-notice/templates/admin-deactivation-form.php:85
+msgid "I have %s Premium"
+msgstr ""
+
+#. translators: 1. Plugin name; 2. Plugin name; 3. Plugin name.
+#: inc/admin/inc/admin-notice/templates/admin-deactivation-form.php:96
+msgid "Wait! Don't deactivate %1$s. You have to activate both %2$s and %3$s Premium in order for the plugin to work."
+msgstr ""
+
+#: inc/admin/inc/admin-notice/templates/admin-deactivation-form.php:109
+msgid "Other"
+msgstr ""
+
+#: inc/admin/inc/admin-notice/templates/admin-deactivation-form.php:112
+msgid "Please share the reason"
+msgstr ""
+
+#: inc/admin/inc/admin-notice/templates/admin-deactivation-form.php:116
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: inc/admin/inc/admin-notice/templates/admin-deactivation-form.php:117
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/class-qode-product-bundles-for-woocommerce-admin-general-page.php:17
+msgid "Qode Plugins For WooCommerce"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/class-qode-product-bundles-for-woocommerce-admin-general-page.php:62
+msgid "Help Center"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/class-qode-product-bundles-for-woocommerce-admin-general-page.php:63
+msgid "Video Tutorials"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/class-qode-product-bundles-for-woocommerce-admin-general-page.php:64
+msgid "Qode WooCommerce Plugins"
+msgstr ""
+
+#. translators: 1. Premium plugin url.
+#: inc/admin/inc/admin-pages/class-qode-product-bundles-for-woocommerce-admin-general-page.php:74
+#: inc/admin/inc/admin-pages/options-custom-pages/helper.php:10
+#: inc/admin/inc/admin-pages/options-custom-pages/qode-products/helper.php:96
+msgid "Upgrade"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/dashboard.php:17
+msgid "Help"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/boxes.php:12
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/boxes.php:13
+msgid "Detailed QODE Product Bundles for WooCommerce user manual and documentation."
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/boxes.php:14
+msgid "Read More"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/boxes.php:20
+msgid "Support"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/boxes.php:21
+msgid "Our dedicated team of support pros is there for your plugin-related questions."
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/boxes.php:22
+msgid "Submit a Ticket"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/boxes.php:34
+msgid "Rate QODE Product Bundles"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/boxes.php:35
+msgid "Let us know about your experience with the QODE Product Bundles for WooCommerce."
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/boxes.php:36
+msgid "Rate Us"
+msgstr ""
+
+#. translators: %s - current date.
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/footer.php:12
+#: inc/admin/inc/admin-pages/options-custom-pages/qode-products/templates/parts/footer.php:12
+#: inc/admin/inc/admin-pages/templates/footer.php:12
+msgid "Copyright &copy; %d Qode Interactive, All rights reserved"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/header.php:8
+#: inc/admin/inc/admin-pages/options-custom-pages/qode-products/templates/parts/header.php:8
+msgid "Qode Logo"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/header.php:9
+msgid "QODE Product Bundles for WooCommerce Help"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/header.php:10
+msgid "Check out the Knowledge Base articles, user guide or contact our support professionals"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/knowledge.php:9
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/knowledge.php:21
+msgid "Knowledge Base"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/knowledge.php:10
+msgid "Find the answers to all types of WordPress-related questions by browsing our Knowledge Base articles."
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/knowledge.php:12
+msgid "View More"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/subscribe.php:8
+msgid "Qode Newsletter"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/subscribe.php:9
+msgid "Subscribe  to get all our news & updates more words "
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/help/templates/parts/subscribe.php:13
+msgid "Your Email..."
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/qode-products/dashboard.php:17
+msgid "Qode Products"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/qode-products/helper.php:89
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/qode-products/helper.php:112
+msgid "Activated"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/qode-products/helper.php:128
+msgid "Get Free Version"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/qode-products/templates/parts/all-products.php:9
+msgid "Build beautiful modern websites with ease"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/qode-products/templates/parts/all-products.php:10
+msgid "View All Products"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/qode-products/templates/parts/all-products.php:13
+msgid "All Products"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/qode-products/templates/parts/header.php:9
+msgid "All Qode Products"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/qode-products/templates/parts/header.php:10
+msgid "Plugins and website templates with powerful options & features for creating all types of websites"
+msgstr ""
+
+#: inc/admin/inc/admin-pages/options-custom-pages/qode-products/templates/parts/plugins.php:18
+msgid "More Info"
+msgstr ""
+
+#: inc/admin/inc/common/core/class-qode-product-bundles-for-woocommerce-framework-field-repeater-inner.php:26
+#: inc/bundle-product/dashboard/meta-box/bundle-product-meta-box.php:80
+msgid "Add New Item"
+msgstr ""
+
+#: inc/admin/inc/common/core/class-qode-product-bundles-for-woocommerce-framework-field-repeater-inner.php:123
+#: inc/admin/inc/common/core/class-qode-product-bundles-for-woocommerce-framework-field-repeater-inner.php:184
+#: inc/admin/inc/common/core/class-qode-product-bundles-for-woocommerce-framework-field-repeater.php:132
+#: inc/admin/inc/common/core/class-qode-product-bundles-for-woocommerce-framework-field-repeater.php:180
+msgid "Item "
+msgstr ""
+
+#: inc/admin/inc/common/core/class-qode-product-bundles-for-woocommerce-framework-field-repeater.php:26
+msgid "+ Add New Item"
+msgstr ""
+
+#: inc/admin/inc/common/core/class-qode-product-bundles-for-woocommerce-framework-options.php:147
+msgid "Clear"
+msgstr ""
+
+#: inc/admin/inc/common/core/class-qode-product-bundles-for-woocommerce-framework-options.php:148
+msgid "Clear color"
+msgstr ""
+
+#: inc/admin/inc/common/core/class-qode-product-bundles-for-woocommerce-framework-options.php:150
+msgid "Select default color"
+msgstr ""
+
+#: inc/admin/inc/common/core/class-qode-product-bundles-for-woocommerce-framework-options.php:151
+msgid "Select Color"
+msgstr ""
+
+#: inc/admin/inc/common/core/class-qode-product-bundles-for-woocommerce-framework-options.php:152
+msgid "Color value"
+msgstr ""
+
+#: inc/admin/inc/common/fields-wp/class-qode-product-bundles-for-woocommerce-framework-field-wp-file.php:18
+#: inc/admin/inc/common/fields/class-qode-product-bundles-for-woocommerce-framework-field-file.php:18
+msgid "File Thumbnail"
+msgstr ""
+
+#: inc/admin/inc/common/fields-wp/class-qode-product-bundles-for-woocommerce-framework-field-wp-file.php:26
+#: inc/admin/inc/common/fields/class-qode-product-bundles-for-woocommerce-framework-field-file.php:25
+msgid "Select File"
+msgstr ""
+
+#: inc/admin/inc/common/fields-wp/class-qode-product-bundles-for-woocommerce-framework-field-wp-file.php:26
+#: inc/admin/inc/common/fields-wp/class-qode-product-bundles-for-woocommerce-framework-field-wp-image.php:41
+#: inc/admin/inc/common/fields/class-qode-product-bundles-for-woocommerce-framework-field-file.php:25
+#: inc/admin/inc/common/fields/class-qode-product-bundles-for-woocommerce-framework-field-image.php:41
+#: inc/admin/inc/widgets/fields/class-qode-product-bundles-for-woocommerce-framework-field-widget-image.php:24
+msgid "Upload"
+msgstr ""
+
+#: inc/admin/inc/common/fields-wp/class-qode-product-bundles-for-woocommerce-framework-field-wp-file.php:27
+#: inc/admin/inc/common/fields-wp/class-qode-product-bundles-for-woocommerce-framework-field-wp-image.php:42
+#: inc/admin/inc/common/fields/class-qode-product-bundles-for-woocommerce-framework-field-file.php:26
+#: inc/admin/inc/common/fields/class-qode-product-bundles-for-woocommerce-framework-field-image.php:42
+#: inc/admin/inc/widgets/fields/class-qode-product-bundles-for-woocommerce-framework-field-widget-image.php:25
+msgid "Remove"
+msgstr ""
+
+#: inc/admin/inc/common/fields-wp/class-qode-product-bundles-for-woocommerce-framework-field-wp-image.php:21
+#: inc/admin/inc/common/fields-wp/class-qode-product-bundles-for-woocommerce-framework-field-wp-image.php:32
+#: inc/admin/inc/common/fields/class-qode-product-bundles-for-woocommerce-framework-field-image.php:21
+#: inc/admin/inc/common/fields/class-qode-product-bundles-for-woocommerce-framework-field-image.php:32
+#: inc/admin/inc/widgets/fields/class-qode-product-bundles-for-woocommerce-framework-field-widget-image.php:18
+msgid "Image Thumbnail"
+msgstr ""
+
+#: inc/admin/inc/common/fields-wp/class-qode-product-bundles-for-woocommerce-framework-field-wp-image.php:41
+#: inc/admin/inc/common/fields/class-qode-product-bundles-for-woocommerce-framework-field-image.php:41
+#: inc/admin/inc/widgets/fields/class-qode-product-bundles-for-woocommerce-framework-field-widget-image.php:24
+msgid "Select Image"
+msgstr ""
+
+#: inc/admin/inc/common/modules/admin/core/class-qode-product-bundles-for-woocommerce-framework-options-admin.php:19
+msgid "Qode Options"
+msgstr ""
+
+#: inc/admin/inc/common/modules/admin/core/class-qode-product-bundles-for-woocommerce-framework-options-admin.php:180
+msgid "Saved"
+msgstr ""
+
+#: inc/admin/inc/common/modules/admin/core/class-qode-product-bundles-for-woocommerce-framework-options-admin.php:185
+#: inc/admin/inc/common/modules/admin/core/class-qode-product-bundles-for-woocommerce-framework-options-admin.php:212
+msgid "Wrong options trigger"
+msgstr ""
+
+#: inc/admin/inc/common/modules/admin/core/class-qode-product-bundles-for-woocommerce-framework-options-admin.php:207
+msgid "Options reset to default"
+msgstr ""
+
+#: inc/admin/inc/common/modules/admin/core/class-qode-product-bundles-for-woocommerce-framework-options-admin.php:293
+#: inc/admin/inc/common/modules/admin/templates/holder-custom.php:18
+#: inc/admin/inc/common/modules/admin/templates/holder.php:19
+msgid "Admin Qode Interactive image"
+msgstr ""
+
+#: inc/admin/inc/common/modules/admin/templates/holder-custom.php:23
+#: inc/admin/inc/common/modules/admin/templates/holder.php:24
+msgid "Search Options"
+msgstr ""
+
+#: inc/admin/inc/common/modules/admin/templates/holder-custom.php:31
+#: inc/admin/inc/common/modules/admin/templates/holder.php:32
+msgid "Saved!"
+msgstr ""
+
+#: inc/admin/inc/common/modules/admin/templates/holder-custom.php:35
+#: inc/admin/inc/common/modules/admin/templates/holder.php:36
+msgid "Save Changes"
+msgstr ""
+
+#: inc/admin/inc/common/modules/admin/templates/holder-custom.php:38
+#: inc/admin/inc/common/modules/admin/templates/holder.php:39
+msgid "Are you sure? You will reset all options to default values. This will also apply on already imported demo."
+msgstr ""
+
+#: inc/admin/inc/common/modules/admin/templates/holder-custom.php:38
+#: inc/admin/inc/common/modules/admin/templates/holder.php:39
+msgid "Reset All"
+msgstr ""
+
+#. translators: 1. Custom Post Type, 2. Custom Post Type Name.
+#: inc/admin/inc/post-types/class-qode-product-bundles-for-woocommerce-framework-custom-post-type-taxonomy.php:78
+#: inc/admin/inc/post-types/class-qode-product-bundles-for-woocommerce-framework-custom-post-type-taxonomy.php:98
+msgid "%1$s %2$s"
+msgstr ""
+
+#. translators: 1. Custom Post Type, 2. Custom Post Type Name.
+#: inc/admin/inc/post-types/class-qode-product-bundles-for-woocommerce-framework-custom-post-type-taxonomy.php:80
+msgid "Search %1$s %2$s"
+msgstr ""
+
+#. translators: 1. Custom Post Type, 2. Custom Post Type Name.
+#: inc/admin/inc/post-types/class-qode-product-bundles-for-woocommerce-framework-custom-post-type-taxonomy.php:82
+msgid "All %1$s %2$s"
+msgstr ""
+
+#. translators: 1. Custom Post Type, 2. Custom Post Type Name.
+#: inc/admin/inc/post-types/class-qode-product-bundles-for-woocommerce-framework-custom-post-type-taxonomy.php:84
+msgid "Parent %1$s %2$s"
+msgstr ""
+
+#. translators: 1. Custom Post Type, 2. Custom Post Type Name.
+#: inc/admin/inc/post-types/class-qode-product-bundles-for-woocommerce-framework-custom-post-type-taxonomy.php:86
+msgid "Parent %1$s %2$s:"
+msgstr ""
+
+#. translators: 1. Custom Post Type, 2. Custom Post Type Name.
+#: inc/admin/inc/post-types/class-qode-product-bundles-for-woocommerce-framework-custom-post-type-taxonomy.php:88
+msgid "Edit %1$s %2$s"
+msgstr ""
+
+#. translators: 1. Custom Post Type, 2. Custom Post Type Name.
+#: inc/admin/inc/post-types/class-qode-product-bundles-for-woocommerce-framework-custom-post-type-taxonomy.php:90
+msgid "Update %1$s %2$s"
+msgstr ""
+
+#. translators: 1. Custom Post Type, 2. Custom Post Type Name.
+#: inc/admin/inc/post-types/class-qode-product-bundles-for-woocommerce-framework-custom-post-type-taxonomy.php:92
+msgid "Add New %1$s %2$s"
+msgstr ""
+
+#. translators: 1. Custom Post Type, 2. Custom Post Type Name.
+#: inc/admin/inc/post-types/class-qode-product-bundles-for-woocommerce-framework-custom-post-type-taxonomy.php:94
+msgid "New %1$s %2$s Name"
+msgstr ""
+
+#. translators: 1. Custom Post Type, 2. Custom Post Type Name.
+#: inc/admin/inc/post-types/class-qode-product-bundles-for-woocommerce-framework-custom-post-type-taxonomy.php:96
+msgid "No %1$s %2$s Found"
+msgstr ""
+
+#: inc/admin/inc/post-types/class-qode-product-bundles-for-woocommerce-framework-custom-post-type-taxonomy.php:124
+#: inc/admin/inc/post-types/class-qode-product-bundles-for-woocommerce-framework-custom-post-type.php:243
+msgid "base"
+msgstr ""
+
+#: inc/admin/inc/shortcodes/translators/elementor/class-qode-product-bundles-for-woocommerce-framework-elementor-translator.php:58
+msgid "Content"
+msgstr ""
+
+#: inc/admin/inc/shortcodes/translators/elementor/class-qode-product-bundles-for-woocommerce-framework-elementor-translator.php:180
+msgid "Item"
+msgstr ""
+
+#: inc/admin/inc/shortcodes/translators/elementor/class-qode-product-bundles-for-woocommerce-framework-elementor-translator.php:343
+msgid "QODE Product Bundles"
+msgstr ""
+
+#: inc/admin/inc/shortcodes/translators/elementor/class-qode-product-bundles-for-woocommerce-framework-elementor-translator.php:609
+msgid "Developer Tools"
+msgstr ""
+
+#: inc/admin/inc/shortcodes/translators/elementor/class-qode-product-bundles-for-woocommerce-framework-elementor-translator.php:617
+msgid "Show Shortcode Snippet"
+msgstr ""
+
+#: inc/admin/inc/widgets/class-qode-product-bundles-for-woocommerce-framework-widget.php:213
+msgid "There are no options for this widget."
+msgstr ""
+
+#: inc/bundle-product/class-qode-product-bundles-for-woocommerce-bundle-product.php:74
+msgctxt "Admin: Type of product"
+msgid "Bundle product"
+msgstr ""
+
+#. translators: 1: bundled product name; 2: bundled item name.
+#: inc/bundle-product/class-qode-product-bundles-for-woocommerce-bundle-product.php:151
+msgid "&quot;%1$s&quot; cannot be added to the cart because &quot;%2$s&quot; cannot be purchased at the moment."
+msgstr ""
+
+#. translators: %s - Product name.
+#: inc/bundle-product/class-qode-product-bundles-for-woocommerce-bundle-product.php:165
+msgid "Unfortunately you can't this item to the cart, because %s is out of stock."
+msgstr ""
+
+#: inc/bundle-product/class-qode-product-bundles-for-woocommerce-bundle-product.php:175
+msgid "Unfortunately there are not enough items in stock."
+msgstr ""
+
+#. translators: %s is a comma-separated list of bundle products.
+#: inc/bundle-product/class-qode-product-bundles-for-woocommerce-bundle-product.php:727
+msgid "You are trying to add the following Bundle products to the order: %s. You cannot add Bundle products to orders through this box since this type of products needs to follow the normal WooCommerce \"Add-to-cart > Cart > Checkout > Order\" process."
+msgstr ""
+
+#: inc/bundle-product/dashboard/admin/general-options.php:22
+msgid "Welcome to Qode Product Bundles for WooCommerce"
+msgstr ""
+
+#: inc/bundle-product/dashboard/admin/general-options.php:23
+msgid "It's time to set up the Product Bundles feature on your website"
+msgstr ""
+
+#: inc/bundle-product/dashboard/admin/general-options.php:31
+msgid "General"
+msgstr ""
+
+#: inc/bundle-product/dashboard/admin/general-options.php:39
+msgid "Manage Bundled Items Out of Stock"
+msgstr ""
+
+#: inc/bundle-product/dashboard/admin/general-options.php:40
+msgid "Choose how to manage bundle product when an item in the bundle is out of stock."
+msgstr ""
+
+#: inc/bundle-product/dashboard/admin/general-options.php:42
+msgid "Show, but users will not be able to buy it"
+msgstr ""
+
+#: inc/bundle-product/dashboard/admin/general-options.php:43
+msgid "Set the bundled product as Out of Stock"
+msgstr ""
+
+#: inc/bundle-product/dashboard/admin/general-options.php:44
+msgid "Hide the bundled product"
+msgstr ""
+
+#: inc/bundle-product/dashboard/meta-box/bundle-product-meta-box.php:20
+msgid "QODE - Bundle Product Options"
+msgstr ""
+
+#: inc/bundle-product/dashboard/meta-box/bundle-product-meta-box.php:29
+msgid "General Options"
+msgstr ""
+
+#. translators: %s is currency symbol.
+#: inc/bundle-product/dashboard/meta-box/bundle-product-meta-box.php:41
+msgid "Regular Price (%s)"
+msgstr ""
+
+#: inc/bundle-product/dashboard/meta-box/bundle-product-meta-box.php:42
+msgid "Set the regular price of this bundle."
+msgstr ""
+
+#. translators: %s is currency symbol.
+#: inc/bundle-product/dashboard/meta-box/bundle-product-meta-box.php:59
+msgid "Sale Price (%s)"
+msgstr ""
+
+#: inc/bundle-product/dashboard/meta-box/bundle-product-meta-box.php:60
+msgid "Set the optional sale price to show a discount for this bundle."
+msgstr ""
+
+#: inc/bundle-product/dashboard/meta-box/bundle-product-meta-box.php:78
+msgid "Bundle Items"
+msgstr ""
+
+#: inc/bundle-product/dashboard/meta-box/bundle-product-meta-box.php:79
+msgid "Add products to the bundle"
+msgstr ""
+
+#: inc/bundle-product/dashboard/meta-box/bundle-product-meta-box.php:99
+msgid "Product"
+msgstr ""
+
+#: inc/bundle-product/dashboard/meta-box/bundle-product-meta-box.php:100
+msgid "Pick a product to add to this bundle."
+msgstr ""
+
+#: inc/bundle-product/dashboard/meta-box/bundle-product-meta-box.php:112
+msgid "Quantity"
+msgstr ""
+
+#: inc/bundle-product/dashboard/meta-box/bundle-product-meta-box.php:113
+msgid "Set a quantity of the product for this bundle."
+msgstr ""
+
+#: inc/bundle-product/helper.php:47
+msgid "Simple"
+msgstr ""
+
+#: inc/bundle-product/helper.php:132
+msgid "Awaiting product image"
+msgstr ""
+
+#: inc/bundle-product/woocommerce/class-wc-product-qode-bundle-product.php:234
+msgid "Add to cart"
+msgstr ""
+
+#: inc/bundle-product/woocommerce/class-wc-product-qode-bundle-product.php:234
+msgid "Read more"
+msgstr ""
+
+#: inc/bundle-product/woocommerce/class-wc-product-qode-bundle-product.php:248
+msgid " - "
+msgstr ""
+
+#: templates/single-product/add-to-cart/qode-bundle-product.php:75
+msgid "Qty"
+msgstr ""

@@ -1,0 +1,4 @@
+*** QODE Product Bundles for WooCommerce Changelog ***
+
+2024-10-30 - version 1.0
+* Initial release

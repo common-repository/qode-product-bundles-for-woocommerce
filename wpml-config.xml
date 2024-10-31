@@ -1,0 +1,7 @@
+<wpml-config>
+	<custom-fields>
+		<custom-field action="copy">qode_product_bundles_for_woocommerce_bundle_product_regular_price</custom-field>
+		<custom-field action="copy">qode_product_bundles_for_woocommerce_bundle_product_sale_price</custom-field>
+		<custom-field action="copy">qode_product_bundles_for_woocommerce_bundle_product_items</custom-field>
+	</custom-fields>
+</wpml-config>
